@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609392399146",
+    "firebase_url": "https://bramhaputra-firebase09.firebaseio.com",
+    "project_id": "bramhaputra-firebase09",
+    "storage_bucket": "bramhaputra-firebase09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609392399146:android:be9c8d2c2acc726e",
+        "android_client_info": {
+          "package_name": "com.brahamaputra.mahindra.brahamaputra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609392399146-063g7fe192c57u6rm8oolbfth8iscie0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brahamaputra.mahindra.brahamaputra",
+            "certificate_hash": "c886c0d34b273a11ffc307412e91e9c6aebdbdee"
+          }
+        },
+        {
+          "client_id": "609392399146-9aa9s8rkek910a1cfmid3v59tg8usa4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD0L4koYSCSJeaiv277WQhqif2cOdhjAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609392399146-9aa9s8rkek910a1cfmid3v59tg8usa4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
